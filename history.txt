@@ -1,0 +1,6 @@
+   0 nano /bin/fullscript.sh
+   1 chmod 744 /bin/fullscript.sh
+   2 fullscript.sh
+   3 cat /opt/mydate/newmydate.txt
+   4 ls /tmp
+   5 history > history.txt
